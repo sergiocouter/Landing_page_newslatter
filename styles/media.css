@@ -36,7 +36,21 @@
 
     .image{
         width: 300px;
+    }    
+}
+
+@media screen and (max-width: 400px){
+    .h22{
+        font-size: 25px;
     }
 
-    
+    .h2{
+        font-size: 25px;
+    }
+
+    #submit{
+        width: 100%;
+    }
+
 }
+
